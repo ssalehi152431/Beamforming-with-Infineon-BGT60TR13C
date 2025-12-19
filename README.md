@@ -30,23 +30,7 @@ BEAMFORMING/
 └── README.md
 ```
 ## Results
-
-<h2>Results</h2>
-
-<p align="center">
-  <img src="beamforming/results/bartlett.png" width="800" alt="Bartlett Range–Angle Map">
-</p>
-<p align="center">
-  <em>Bartlett range–angle map using a 3-RX array.</em>
-</p>
-
-<p align="center">
-  <img src="beamforming/results/bartlett(advanced).png" width="800" alt="Bartlett Advanced">
-</p>
-<p align="center">
-  <em>Advanced Bartlett processing with improved visualization.</em>
-</p>
-
+![Bartlett Range–Angle Map](results/bartlett.png)
 
 
 
