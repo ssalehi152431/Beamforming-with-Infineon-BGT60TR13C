@@ -1,0 +1,7 @@
+{
+    "adc_resolution": 12,
+    "description": "BGT60TR13C FMCW Radar Sensor",
+    "firmware_version": "2.9.0",
+    "sdk_version": "3.6.4+4b4a624",
+    "uuid": "0"
+}

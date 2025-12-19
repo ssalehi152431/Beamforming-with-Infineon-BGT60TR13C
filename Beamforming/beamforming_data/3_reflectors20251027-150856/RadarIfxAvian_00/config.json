@@ -1,0 +1,26 @@
+{
+    "device_config": {
+        "fmcw_single_shape": {
+            "aaf_cutoff_Hz": 500000,
+            "chirp_repetition_time_s": 0.0005911249900236726,
+            "end_frequency_Hz": 63500000000,
+            "frame_repetition_time_s": 0.07726884633302689,
+            "hp_cutoff_Hz": 80000,
+            "if_gain_dB": 23,
+            "mimo_mode": "off",
+            "num_chirps_per_frame": 64,
+            "num_samples_per_chirp": 64,
+            "rx_antennas": [
+                1,
+                2,
+                3
+            ],
+            "sample_rate_Hz": 2000000,
+            "start_frequency_Hz": 58000000000,
+            "tx_antennas": [
+                1
+            ],
+            "tx_power_level": 31
+        }
+    }
+}
