@@ -30,9 +30,14 @@ BEAMFORMING/
 └── README.md
 ```
 ## Results
-![Bartlett Range–Angle Map](results/bartlett.png)
-
-
+![Bartlett Range–Angle Map](results/Bartlett(advanced).png)
+![Bartlett Range–Angle Map](results/Bartlett.png)
+![MVDR Range–Angle Map](results/mvdr(advanced).png)
+![MVDR Range–Angle Map](results/mvdr.png)
+![MUSIC Range–Angle Map](results/music(advanced).png)
+![MUSIC Range–Angle Map](results/music.png)
+![Beampattern](results/comparison(advanced).png)
+![Beampattern](results/comparison.png)
 
 ## 2. Processing Pipeline 
 
